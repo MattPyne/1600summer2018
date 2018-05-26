@@ -9,6 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cc3a30e087d54dd489dc2234d85cd9b0, type: 3}
-  m_Name: New Health Power Up 2
+  m_Name: Health Power Down
   m_EditorClassIdentifier: 
-  PowerLevel: 10
+  PowerLevel: -8.8
