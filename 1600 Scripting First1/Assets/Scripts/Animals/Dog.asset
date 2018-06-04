@@ -11,9 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc7e7c1a0e7da894980654f94412e33c, type: 3}
   m_Name: Dog
   m_EditorClassIdentifier: 
-  Health: 100
+  Health: 190
   Speed: 1
   Strength: 1
   LegCount: 2
+  PowerUp: {fileID: 11400000, guid: 1fde6e9f45048114ab0416ee11e19413, type: 2}
   HairCount: 1000
   HairColor: {r: 0.7058823, g: 0.23875433, b: 0.23875433, a: 1}
